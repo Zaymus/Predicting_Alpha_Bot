@@ -1,8 +1,15 @@
 class welcome():
-    wm_pt1 = "***Welcome to the Predicting Alpha Options Trading Academy!***\n\nAs a member of Predicting Alpha you get access to the private community of traders who are making data driven, educated decisions in the market.\n\n_Please complete the following steps to get started:_\n\n"
-    wm_pt2 = "```fix\n1)    Send @SeanPA a message with your full name. He will assign you a community rank, unlocking all the chatrooms for you.\n2)    Read over the community rules, listed below.\n3)    Introduce yourself to the community and get read```"
-    wm_pt3 = "By joining the Predicting Alpha Server, you are agreeing to all of the following rules. If a rule is violated our staff will take the action necessary to preserve the integrity of our community.\n\n"
-    wm_pt4 = "```css\n\tCOMMUNITY GUIDELINES:\n\n1) Nicknames: Pick a professional name/alias that you want to be called by.\n=2) No discussion of any illegal activities whatsoever.\n=3) Do not post anything that may attack, insult, threaten offend anyone, etc.\n=4) Respect the other members’ opinions and views.\n=5) No advertising other sites/discord servers (Permission must be requested from a Staff member and must be shown upon request).\n=6) Use the different text channels for their intended purposes.\n=7) When you share a trade you are looking at/taking, type a sentence or two explaining why you are taking the trade. Combine data and research so others can understand your reasoning.\n=8) Content, analysis, education, recordings, log ins, and all other Academy related information is CONFIDENTIAL and not to be shared with anyone outside of the Academy.```\n\n"
-    wm_pt5 = "Welcome to the best trading community in the world."
+    message = """
+__***Welcome to the Predicting Alpha Virtual Trading Floor (VTF).***__
 
-    message = [wm_pt1, wm_pt2, wm_pt3, wm_pt4, wm_pt5]
+The VTF represents a world of potential colleagues and collaborators. Ask questions, share insight, receive feedback on your ideas and network with the best traders from around the world.
+
+```VALIDATE YOUR MEMBERSHIP:  Send @SeanPA a message with your full name. He will assign you a community rank, unlocking all the chatrooms for you.```
+```Community Rules & Guidelines
+1) Nicknames: Pick a professional name/alias that you want to be called by.
+2) Use the different channels for their intended purposes.
+3) Analysis and claims must be accompanied by data and reasoning.
+4) Posts are subject to review and may be removed at the discretion of Predicting Alpha Staff.
+5) All Predicting Alpha and trade related information is CONFIDENTIAL and not to be shared with anyone outside of the VTF.```
+Be sure to #introduce-yourself to the community, and we look forward to your participation in the strongest trading network.
+"""
