@@ -3,7 +3,6 @@ import os
 from MyClient import MyClient
 
 intents = discord.Intents.all()
-
 f = open("C://Users//carso//Desktop//PA_bot_token.txt", 'r')
 token = f.read()
 
