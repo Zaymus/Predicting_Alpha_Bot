@@ -20,7 +20,7 @@ class Commands(commands.Cog):
     @commands.command()
     async def ranks(self, ctx):
         await ctx.message.author.send('WIP')
-        await ctx.send('I have sent you a dm where the ranks are explained. if you need any other clarification, feel free to ask a PA staff member.')
+        await ctx.send('I have sent you a dm where the ranks are explained. If you need any other clarification, feel free to ask a PA staff member.')
 
 
 def setup(bot):
